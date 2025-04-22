@@ -1,0 +1,7 @@
+[submodule "nvim"]
+    path = nvim
+    url = git@github.com:ghyls/kickstart.nvim.git
+    branch = devel
+[submodule "tmux/plugins/tmux-kanagawa"]
+	path = tmux/plugins/tmux-kanagawa
+	url = git@github.com:Nybkox/tmux-kanagawa.git
